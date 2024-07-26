@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <p>Lets begin</p>
-    </main>
+    <div>
+      <h1 className="h1-bold">QueyNest is coming</h1>
+    </div>
   );
 }
